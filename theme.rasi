@@ -29,6 +29,7 @@
 /* ########### */
 
 #window {
+  location: center;
   width: 40%;
   height: 60%;
   x-offset: -58.4%;
